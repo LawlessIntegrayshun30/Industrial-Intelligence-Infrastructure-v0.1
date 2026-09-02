@@ -1,0 +1,7 @@
+{
+  "events": [
+    {"event_id":"evt_001","source":"telemetry","timestamp":"2026-08-31T10:00:00Z","entity_id":"engine_07","event_type":"baseline","payload":{"temperature_c":72,"pressure_bar":40,"vibration_mm_s":1.2}},
+    {"event_id":"evt_002","source":"telemetry","timestamp":"2026-08-31T10:05:00Z","entity_id":"engine_07","event_type":"operating_change","payload":{"temperature_c":81,"pressure_bar":44,"vibration_mm_s":2.7}},
+    {"event_id":"evt_003","source":"telemetry","timestamp":"2026-08-31T10:06:00Z","entity_id":"engine_07","event_type":"temperature_change","payload":{"temperature_c":84.8,"rate_of_change":3.8}}
+  ]
+}
